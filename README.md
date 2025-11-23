@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
+<h1 align="center">Hi ,This is Muhammad Ali</h1>
 <h3 align="center">Software Engineering @ NUST | Python, Java, C++, ML, Web Dev | Turning complex problems into simple, real-world solutions</h3>
 
 ---
 
-## 🔭 Current Work
+## Current Work
 I'm currently working on **[NextSearch](#)** – an innovative search engine designed to deliver smarter, faster, and more relevant results.  
 
-## 🌱 Currently Learning
+## Currently Learning
 **Machine Learning, AI, and Advanced Data Structures**.  
 
 ## 💬 Ask Me About
 **Mathematics, Programming, Algorithms, and Fun Tech Facts**  
 
-## 📫 Contact Me
+## Contact Me
 Email: [maliqureshi082@gmail.com](mailto:maliqureshi082@gmail.com)  
 
 ---
@@ -53,9 +53,3 @@ Email: [maliqureshi082@gmail.com](mailto:maliqureshi082@gmail.com)
 </p>
 
 
-
----
-
-## 🚀 Fun Fact
-> "Mathematics is the language in which the universe is written."  
-> — Galileo Galilei
